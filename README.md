@@ -143,10 +143,40 @@ October 22, 2019
 
 
 ## First Shabbat Sermon of 5780
-*Rabbi Golkow asks the assembled what makes Shabbat holy as the Torah reading starts anew*
+*Rabbi Golkow asks the assembled what makes Shabbat holy as the Torah reading starts anew.*
 
 October 25, 2019
 
 {% include youtubePlayer.html id="CfslBdfMcdc" time="1333" %}
 
 
+## Shabbat Bereshit
+*As we read from the first portion, Rabbi Golkow analogizes being kicked out of the Garden of Eden to losing our false sense of security after antisemitic incidents.*
+
+October 26, 2019
+
+{% include youtubePlayer.html id="xX3BYtpXNg8" time="3740" %}
+
+
+## Shabbat Lech-Lecha
+*On Ben's Bar Mitzvah anniversary, Shayna shows how God eases Abraham into leaving Ur for the Promised Land.*
+
+November 8, 2019
+
+{% include youtubePlayer.html id="Vc6wyNTjmhM" time="1670" %}
+
+
+## Shabbat Chayei Sara
+*Rabbi Golkow dives into what the Binding of Isaac teaches us about handling the unexpected.*
+
+November 22, 2019
+
+{% include youtubePlayer.html id="bI610MX_bHQ" time="1333" %}
+
+
+## We're Taking Too Many Steps!
+*A cute step-based plea for donations to upgrade Aliyah computer equipment.*
+
+November 22, 2019
+
+{% include youtubePlayer.html id="uiltll7sObs" time="79" %}
