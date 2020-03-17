@@ -52,3 +52,101 @@ July 27, 2019
 July 31, 2019
 
 {% include youtubePlayer.html id="qXYbumycVoQ" time="0" %}
+
+
+## Camp Shabbat
+*In honor of the night's theme, Rabbi Golkow examines why we dress nicely and often wear white on Shabbat.*
+
+August 2, 2019
+
+{% include youtubePlayer.html id="pVE3UuuPo8o" time="1671" %}
+
+
+## Erev Shabbat Devarim
+*A Friday night discussion on the meaning of exile, both literally and figuritively, on the weekend of Tisha B'Av.*
+
+August 9, 2019
+
+{% include youtubePlayer.html id="2znKIap8n2U" time="1965" %}
+
+
+## Shabbat Devarim
+*Rabbi Golkow asks the congregation to ponder why repetition happens and what meaning we can derive from it.*
+
+August 10, 2019
+
+{% include youtubePlayer.html id="bCS3hLoy_VQ" time="3319" %}
+
+
+## Shabbat Eikev
+*What determines the separation of day and night? Rabbi Golkow shares an older rabbi's answer.*
+
+August 23, 2019
+
+{% include youtubePlayer.html id="mZzlLyu8WS0" time="1579" %}
+
+
+## Ben's First Visit to Aliyah
+*On Ben's first trip to Woodland Hills, Shayna teaches the three mitzvot that will lead to a long life.*
+
+September 13, 2019
+
+{% include youtubePlayer.html id="uGckROvPXzc" time="1578" %}
+
+
+## Final Shabbat of 5779
+*The Nike Portion -- Just Do It!*
+
+September 27, 2019
+
+{% include youtubePlayer.html id="45ZMx-b6zSA" time="1516" %}
+
+
+## Rosh Hashana
+*In the Makor service, Rabbi Golkow leads a discussion-style sermon based on a variety of distributed quotations.*
+
+September 30, 2019
+
+{% include youtubePlayer.html id="yz7D_wKaDvY" time="0" %}
+
+
+## Rosh Hashana Day 2
+*In one pocket, "For my sake, the world was created." In the other pocket, "I am dust and ashes."*
+
+October 1, 2019
+
+{% include youtubePlayer.html id="AEZVV726yPE" time="0" %}
+
+
+## Yom Kippur
+*Rabbi Golkow uses her own story of becoming a rabbi to demonstrate the value of seeking out role models who are like you.*
+
+October 1, 2019
+
+{% include youtubePlayer.html id="_53ctsv7CRA" time="0" %}
+
+
+## Sukkot Day 2
+*Rabbi Golkow analyzes the famous Ecclesiastes passage about a time for all things under Heaven.*
+
+October 15, 2019
+
+{% include youtubePlayer.html id="qHJ4uktfrIE" time="3708" %}
+
+
+## Simchat Torah
+*Shayna hosts a holiday-themed trivia game!*
+
+October 22, 2019
+
+{% include youtubePlayer.html id="P3CEwziCDlc" time="4629" %}
+
+
+## First Shabbat Sermon of 5780
+*Rabbi Golkow asks the assembled what makes Shabbat holy as the Torah reading starts anew*
+
+October 25, 2019
+
+{% include youtubePlayer.html id="CfslBdfMcdc" time="1333" %}
+
+
