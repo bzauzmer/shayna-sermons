@@ -177,6 +177,31 @@ November 22, 2019
 ## We're Taking Too Many Steps!
 *A cute step-based plea for donations to upgrade Aliyah computer equipment.*
 
-November 22, 2019
+November 27, 2019
 
 {% include youtubePlayer.html id="uiltll7sObs" time="79" %}
+
+
+## Thanksgiving Shabbat Evening
+*In keeping with the spirit of Thanksgiving, Rabbi Golkow talks about the tradition of going around the table saying what we're thanksful for.*
+
+November 29, 2019
+
+{% include youtubePlayer.html id="8ZEr73oyIuY" time="1829" %}
+
+
+## Thanksgiving Shabbat Morning
+*Using the story of Rebecca, Rabbi Golkow urges us to comfort people who are feeling insecure.*
+
+November 30, 2019
+
+{% include youtubePlayer.html id="YcbUrzXyXFc" time="3922" %}
+
+
+## Shabbat Vayishlach
+*All of us wrestle with God, just like Jacob did.*
+
+December 13, 2019
+
+{% include youtubePlayer.html id="33enjnuqyhA" time="1596" %}
+
