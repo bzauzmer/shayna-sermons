@@ -1,3 +1,5 @@
-## Test Video
+## JTS Promotion Video
 
-{% include youtubePlayer.html id="16dEf_hghYM" time="399" %}
+March 5, 2015
+
+{% include youtubePlayer.html id="wV6kg2f-V1E" time="33" %}
