@@ -253,3 +253,26 @@ January 17, 2020
 
 {% include youtubePlayer.html id="a8T3ywPifvE" time="4308" %}
 
+
+## Shabbat Vaera
+*Rabbi Golkow opens up about her childhood speech impediment, and how Moses sharing that trait served as an inspiration.*
+
+January 24, 2020
+
+{% include youtubePlayer.html id="weZvxuyxu4Q" time="1468" %}
+
+
+## Shabbat Bo
+*Temple Aliyah members open up to Rabbi Golkow about the stories they always tell, and what they say about them.*
+
+February 1, 2020
+
+{% include youtubePlayer.html id="iQMtbhCFOpI" time="3403" %}
+
+
+## Coronavirus Message
+*Shayna uses the connection between kavod and COVID-19 to urge congregants to practice social distancing during the pandemic.*
+
+March 17, 2020
+
+{% include youtubePlayer.html id="SaBvrhk-wok" time="0" %}
