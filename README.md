@@ -205,3 +205,51 @@ December 13, 2019
 
 {% include youtubePlayer.html id="33enjnuqyhA" time="1596" %}
 
+
+## Happy Hanukkah from Temple Aliyah
+*Shayna advertises Temple Aliyah's new Little Free Library.*
+
+December 20, 2019
+
+{% include youtubePlayer.html id="ON6PWIStX4M" time="0" %}
+
+
+## Hanukkah Shabbat Evening
+*On the 6th night of Hanukkah, Rabbi Golkow considers Hillel and Shammai's arguments for how to light a menorah.*
+
+December 27, 2019
+
+{% include youtubePlayer.html id="O88HTb-WW_I" time="1543" %}
+
+
+## Hanukkah Shabbat Morning
+*On the 6th morning of Hanukkah, Rabbi Golkow navigates the situation where Hanukkah and Christmas overlap.*
+
+December 28, 2019
+
+{% include youtubePlayer.html id="VwY7Aii59HY" time="4290" %}
+
+
+## First Shabbat of 2020
+*Shayna quotes Jan Zauzmer's New Years words to begin her sermon!*
+
+January 4, 2020
+
+{% include youtubePlayer.html id="wH6LmyW0QHk" time="3672" %}
+
+
+## Shabbat Vayechi
+*Which biblical characters do we bless our children to be like?*
+
+January 10, 2020
+
+{% include youtubePlayer.html id="CKqyXP9v7do" time="1722" %}
+
+
+## Voices of Unity
+*Rabbi Golkow reads a passage from Martin Luther King, Jr., during the joint Voices of Unity Service on Martin Luther King weekend.*
+
+January 17, 2020
+
+{% include youtubePlayer.html id="a8T3ywPifvE" time="4308" %}
+
