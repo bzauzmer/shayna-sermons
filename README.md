@@ -14,6 +14,14 @@ November 18, 2017
 {% include youtubePlayer.html id="fwZnS_ei04s" time="65" %}
 
 
+## JTS Senior Sermon
+*Shayna's final sermon as a JTS student answers the question of where Rebecca -- and we -- fit in.*
+
+November 7, 2018
+
+{% include youtubePlayer.html id="bF6WlOpAnVM" time="0" %}
+
+
 ## First Sermon at Temple Aliyah
 *Newly ordained Rabbi Shayna Golkow delivers her first Saturday morning sermon at Temple Aliyah connecting Korach's Rebellion to the subejct of patriotism on 4th of July weekend.*
 
@@ -276,3 +284,28 @@ February 1, 2020
 March 17, 2020
 
 {% include youtubePlayer.html id="SaBvrhk-wok" time="0" %}
+
+
+## Social Distancing Service
+*On the one-year anniversary of Shayna's interview weekend, she talks about Temple Aliyah's response to the Coronavirus pandemic.*
+
+March 21, 2020
+
+{% include youtubePlayer.html id="FYyfKtq9Ox4" time="3617" %}
+
+
+## Friday Night from Home
+*Broadcasting live on Zoom from the Alister, Rabbi Golkow breaks down the final four words of V'shamru.*
+
+March 27, 2020
+
+{% include youtubePlayer.html id="cwGw01vhXT4" time="1598" %}
+
+
+## Shayna's 28th Birthday!
+*On the birthday that inspired the creation of this website, Shayna gives viewers at home a self-reflection prompt before each of the four aliyot.*
+
+March 28, 2020
+
+{% include youtubePlayer.html id="bFOoRP9j98g" time="2800" %}
+
