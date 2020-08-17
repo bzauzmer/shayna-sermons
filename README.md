@@ -309,6 +309,7 @@ March 28, 2020
 
 {% include youtubePlayer.html id="bFOoRP9j98g" time="2800" %}
 
+
 ## First Virtual Havdalah
 *This broadcast began a number of new traditions, including the virtual Havadalah, Ben performing candle-holding duties, and "Say Goodbye to Shabbat with Havdalah."*
 
@@ -316,12 +317,14 @@ March 28, 2020
 
 {% include youtubePlayer.html id="td6Mjn1LUi0" time="100" %}
 
+
 ## First Virtual Bat Mitzvah
 *During the first Aliyah bat mitzvah conducted over Zoom, Rabbi Golkow talks about how to be contented in difficult times.*
 
 April 4, 2020
 
 {% include youtubePlayer.html id="J4ZQ_2bqiu8" time="2464" %}
+
 
 ## Passover
 *On the morning of the first day of Pesach, we dive into who the Four Children really are.*
@@ -338,6 +341,7 @@ April 10, 2020
 
 {% include youtubePlayer.html id="UM30yPUqezs" time="4100" %}
 
+
 ## Friday Night during Passover
 *Later that night, Rabbi Golkow talks about how counting the Omer helps us transition from Passover to Shavuot.*
 
@@ -345,12 +349,14 @@ April 10, 2020
 
 {% include youtubePlayer.html id="UrncbZQ35bw" time="2002" %}
 
+
 ## Passover Day 8
 *On the final day of Pesach, Rabbi Golkow explains that we're only free from Egpyt so long as we perform mitzvot.*
 
 April 16, 2020
 
 {% include youtubePlayer.html id="Yz53ZhpxmA4" time="3107" %}
+
 
 ## Shabbat in the Pandemic
 *Rabbi Golkow talks about estrangement, and how it shows us just how much we need each other.*
@@ -366,12 +372,14 @@ May 2, 2020
 
 {% include youtubePlayer.html id="YJtDWFCODv4" time="3842" %}
 
+
 ## Silver Linings of Quarantine
 *The Zoom room shares the moments of holiness they've uncovered during these difficult times.*
 
 May 8, 2020
 
 {% include youtubePlayer.html id="HNSYzdthlCw" time="1443" %}
+
 
 ## Rabbi Vogel's Birthday
 *Rabbi Golkow tells a midrash about how ancient Jews determined when a new month had begun.*
@@ -380,12 +388,14 @@ May 9, 2020
 
 {% include youtubePlayer.html id="fXU67J5Mpfc" time="2211" %}
 
+
 ## Haftarah Prayer of Healing
 *The haftarah's prayer of healing takes on an added significance as millions suffer from the coronavirus.*
 
 May 16, 2020
 
 {% include youtubePlayer.html id="nOrsRznSGc8" time="3438" %}
+
 
 ## Two Months in Isolation
 *As the quarantine hits the two-month mark, the rabbi reveals that Twitter's most increased word are "grateful" and "thankful for."*
@@ -394,6 +404,7 @@ May 22, 2020
 
 {% include youtubePlayer.html id="oo4CaBF81w8" time="1180" %}
 
+
 ## Shavuot
 *Shayna choreographs an impressive, interactive, 2020-appropriate Shavuot event across two synagogues.*
 
@@ -401,9 +412,98 @@ May 28, 2020
 
 {% include youtubePlayer.html id="n4HIoO_cdyI" time="0" %}
 
+
 ## End of the Omer
 *While the counting of the Omer has concluded, the counting of the days of the pandemic has not.*
 
 May 30, 2020
 
 {% include youtubePlayer.html id="VZ-V-XpjARo" time="3414" %}
+
+
+## Erev Shabbat Beha'alotecha
+*Rabbi Golkow asks the crowd what they think the ancient Israelites put in the Temple.*
+
+June 12, 2020
+
+{% include youtubePlayer.html id="xyEFs6FhUAk" time="1456" %}
+
+
+## Shabbat Beha'alotecha
+*Jumping off the portion's discussion of 2nd Passover, Rabbi Golkow talks about how people deserve second chances.*
+
+June 13, 2020
+
+{% include youtubePlayer.html id="OmqhX3XYuPM" time="2277" %}
+
+
+## Shabbat Shelach Lecha
+*Ten of twelve Israelite scouts did not believe in themselves, and thus saw themselves as small as grasshoppers.*
+
+June 20, 2020
+
+{% include youtubePlayer.html id="m7d9wdOuEnU" time="2359" %}
+
+
+## Aliyah in the Zoom Background
+*In a time of great polarization, Rabbi Golkow preaches on the four categories of evil people.*
+
+June 26, 2020
+
+{% include youtubePlayer.html id="a82F4wRhoxE" time="1156" %}
+
+
+## First Shabbat Message on YouTube
+*Shayna tells a midrash of man surrounded by potatoes who desires diamonds, only to learn that potatoes are more valuable.*
+
+July 9, 2020
+
+{% include youtubePlayer.html id="IYIEdDsrls8" time="0" %}
+
+
+## Sports Shabbat
+*Donning a Justin Turner shirt, Shayna asks about the principles of panicked decision-making, the very thing sports leagues are doing right now.*
+
+July 10, 2020
+
+{% include youtubePlayer.html id="ygcQnElVOds" time="1254" %}
+
+
+## 7/11 Shabbat
+*A name's appearance in the Torah must mean they were important, all the more so when the names are of women.*
+
+July 11, 2020
+
+{% include youtubePlayer.html id="U7imHOklZ-0" time="2257" %}
+
+
+## July Shabbat Message
+*Shayna challenges us to make Shabbat feel joyful, not simply a list of things we can't do.*
+
+July 16, 2020
+
+{% include youtubePlayer.html id="VV0TvXsUtuM" time="0" %}
+
+
+## Beach Shabbat
+*On Beach Shabbat, Shayna talks about the most beach-themed prayer, Mi Chamocha, sung on the shores of the sea.*
+
+July 17, 2020
+
+{% include youtubePlayer.html id="9kjMccou2Pc" time="862" %}
+
+
+## Shabbat Mattot-Massei
+*Rabbi Golkow explains just how seriously Judaism takes the obligation of a vow.*
+
+July 18, 2020
+
+{% include youtubePlayer.html id="gPvZs2h-57c" time="2112" %}
+
+
+## Camp Shabbat
+*Wearing white, Shayna reminisces about a story she would tell at Camp Ramah in the Poconos.*
+
+July 24, 2020
+
+{% include youtubePlayer.html id="wAKTMMn5p_U" time="1584" %}
