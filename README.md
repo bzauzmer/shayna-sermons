@@ -507,3 +507,43 @@ July 18, 2020
 July 24, 2020
 
 {% include youtubePlayer.html id="wAKTMMn5p_U" time="1584" %}
+
+
+## Shabbat Chazon
+*Ironically, even though this Shabbat is named in honor of its promximity to Tisha B'Av, its name translates as "Shabbat of Vision."*
+
+July 25, 2020
+
+{% include youtubePlayer.html id="Q4zlA2QcgBU" time="3638" %}
+
+
+## Tisha B'Av
+*Shayna organizes a two-synagogue, breakout-room-based Tisha B'Av service.*
+
+July 29, 2020
+
+{% include youtubePlayer.html id="-t3o0BWcYog" time="0" %}
+
+
+## Shabbat after Opening Day
+*Shayna tells the remarkable story of a balloon falling into Dodger Stadium despite no fans in the stands.*
+
+August 1, 2020
+
+{% include youtubePlayer.html id="aMrog4MSaBA" time="2559" %}
+
+
+## Erev Shabbat Re'eh
+*The members of the synagogue share differing interpretations of what it means to be cursed.*
+
+August 14, 2020
+
+{% include youtubePlayer.html id="XRvAR3yi4k0" time="1395" %}
+
+
+## Shabbat Re'eh
+*This Thursday will be a particularly special Rosh Chodesh -- for Elul -- as it marks one month until Rosh Hashana.*
+
+August 15, 2020
+
+{% include youtubePlayer.html id="_5MYJ_my25w" time="3729" %}
