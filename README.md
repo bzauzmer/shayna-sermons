@@ -309,3 +309,101 @@ March 28, 2020
 
 {% include youtubePlayer.html id="bFOoRP9j98g" time="2800" %}
 
+## First Virtual Havdalah
+*This broadcast began a number of new traditions, including the virtual Havadalah, Ben performing candle-holding duties, and "Say Goodbye to Shabbat with Havdalah."*
+
+March 28, 2020
+
+{% include youtubePlayer.html id="td6Mjn1LUi0" time="100" %}
+
+## First Virtual Bat Mitzvah
+*During the first Aliyah bat mitzvah conducted over Zoom, Rabbi Golkow talks about how to be contented in difficult times.*
+
+April 4, 2020
+
+{% include youtubePlayer.html id="J4ZQ_2bqiu8" time="2464" %}
+
+## Passover
+*On the morning of the first day of Pesach, we dive into who the Four Children really are.*
+
+April 9, 2020
+
+{% include youtubePlayer.html id="HJo67JLr52M" time="4035" %}
+
+
+## Passover Day 2
+*On the morning of the second day of Pesach, the Zoom room discusses "why Moses" and "why a burning Bush."*
+
+April 10, 2020
+
+{% include youtubePlayer.html id="UM30yPUqezs" time="4100" %}
+
+## Friday Night during Passover
+*Later that night, Rabbi Golkow talks about how counting the Omer helps us transition from Passover to Shavuot.*
+
+April 10, 2020
+
+{% include youtubePlayer.html id="UrncbZQ35bw" time="2002" %}
+
+## Passover Day 8
+*On the final day of Pesach, Rabbi Golkow explains that we're only free from Egpyt so long as we perform mitzvot.*
+
+April 16, 2020
+
+{% include youtubePlayer.html id="Yz53ZhpxmA4" time="3107" %}
+
+## Shabbat in the Pandemic
+*Rabbi Golkow talks about estrangement, and how it shows us just how much we need each other.*
+
+April 24, 2020
+
+{% include youtubePlayer.html id="u_R_eVv4pMI" time="1292" %}
+
+## Shabbat after Yom Ha'atzmaut
+*Shayna movingly speaks about what the drive down Ventura Blvd meant to her.*
+
+May 2, 2020
+
+{% include youtubePlayer.html id="YJtDWFCODv4" time="3842" %}
+
+## Silver Linings of Quarantine
+*The Zoom room shares the moments of holiness they've uncovered during these difficult times.*
+
+May 8, 2020
+
+{% include youtubePlayer.html id="HNSYzdthlCw" time="1443" %}
+
+## Rabbi Vogel's Birthday
+*Rabbi Golkow tells a midrash about how ancient Jews determined when a new month had begun.*
+
+May 9, 2020
+
+{% include youtubePlayer.html id="fXU67J5Mpfc" time="2211" %}
+
+## Haftarah Prayer of Healing
+*The haftarah's prayer of healing takes on an added significance as millions suffer from the coronavirus.*
+
+May 16, 2020
+
+{% include youtubePlayer.html id="nOrsRznSGc8" time="3438" %}
+
+## Two Months in Isolation
+*As the quarantine hits the two-month mark, the rabbi reveals that Twitter's most increased word are "grateful" and "thankful for."*
+
+May 22, 2020
+
+{% include youtubePlayer.html id="oo4CaBF81w8" time="1180" %}
+
+## Shavuot
+*Shayna choreographs an impressive, interactive, 2020-appropriate Shavuot event across two synagogues.*
+
+May 28, 2020
+
+{% include youtubePlayer.html id="n4HIoO_cdyI" time="0" %}
+
+## End of the Omer
+*While the counting of the Omer has concluded, the counting of the days of the pandemic has not.*
+
+May 30, 2020
+
+{% include youtubePlayer.html id="VZ-V-XpjARo" time="3414" %}
